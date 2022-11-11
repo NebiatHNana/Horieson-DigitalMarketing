@@ -6,5 +6,9 @@
 
 [**_Website Display_**](https://nebiathnana.github.io/Horieson-DigitalMarketing/)
 
-<img width="395" alt="Screen Shot 2022-05-26 at 3 21 53 PM" src="https://user-images.githubusercontent.com/104470467/170561811-16ca5d52-f712-46cc-8d71-717e1b40ccc7.png">
+## Screenshot
+
+<img width="726" alt="Screen Shot 2022-11-10 at 8 13 32 PM" src="https://user-images.githubusercontent.com/104470467/201239537-363ff166-b9eb-414e-bb1e-3d333f350445.png">
+<img width="721" alt="Screen Shot 2022-11-10 at 8 14 23 PM" src="https://user-images.githubusercontent.com/104470467/201239555-ebc506e9-73f4-44f3-a8de-31c63ff00b69.png">
+
 
